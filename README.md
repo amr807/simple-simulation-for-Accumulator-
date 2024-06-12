@@ -1,10 +1,9 @@
 Fetch-Execute Cycles simulator      
-• The goal of the project it is to know how CPU doing
+•The goal of the project it is to know how CPU doing
 fetch and execute cycle.
 • The Fetch-Execute Cycle simulator is like a program that
 shows how CPU, follows steps to do fetch-execute cycle
 using program counter and instruction register.
-What did we learn from doing the project?
 • Understanding the CPU’s Process: The project helped in
 understanding how the CPU fetches instructions from
 memory and execute them.

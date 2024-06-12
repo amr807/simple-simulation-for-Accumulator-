@@ -1,4 +1,4 @@
-Fetch-Execute Cycles simulator
+Fetch-Execute Cycles simulator      
 • The goal of the project it is to know how CPU doing
 fetch and execute cycle.
 • The Fetch-Execute Cycle simulator is like a program that
